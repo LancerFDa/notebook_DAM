@@ -2,3 +2,5 @@
 ## Configuración local de VSCODE ##
 
 .vscode/
+
+.venv/
