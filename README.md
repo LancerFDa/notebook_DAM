@@ -8,3 +8,4 @@ Notebooks fundamentos programacion Python
 5. Diccionarios_2 en Python ["notebook dictionaries_2"](./notebooks/6.71.ipynb)
 6. Prueba try_except en Python ["notebook try_except"](./notebooks/7.87.ipynb)
 7. try_except en Python ["notebook try_except"](./notebooks/8.91.ipynb)
+8. Sets en Python ["notebook sets"](./notebooks/11.105.ipynb)
