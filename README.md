@@ -9,3 +9,4 @@ Notebooks fundamentos programacion Python
 6. Prueba try_except en Python ["notebook try_except"](./notebooks/7.87.ipynb)
 7. try_except en Python ["notebook try_except"](./notebooks/8.91.ipynb)
 8. Sets en Python ["notebook sets"](./notebooks/11.105.ipynb)
+9. list comprehensions en Python ["notebook list comprehensions"](./notebooks/12.107.ipynb)
